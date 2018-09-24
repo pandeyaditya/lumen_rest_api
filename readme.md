@@ -3,15 +3,15 @@
 
 Steps to run the project :
 
-# git clone https://github.com/pandeyaditya/lumen_rest_api.git
+ git clone https://github.com/pandeyaditya/lumen_rest_api.git
 
-# composer install
+ composer install
 
-# change the database in the .env file.
+ change the database in the .env file.
 
-# run the migrations
+ run the migrations
 
-# run the project using POSTMAN.
+ run the project using POSTMAN.
 
 
 
